@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fintech Wallet System (Backend Project",
+    "imageSrc": "projects/project.png",
+    "description": "A comprehensive backend system for a fintech app.",
+    "skills": ["Node.js", "MongoDB", "JavaScript"],
+    "demo": "https://www.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Map Project",
+    "imageSrc": "projects/project.png",
+    "description": "A web project showcasing map-related functionalities.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Kuda App Clone",
+    "imageSrc": "projects/project.png",
+    "description": ": A clone of the Kuda app with a focus on UI/UX design and responsiveness.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

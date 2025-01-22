@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Full-stack Developer",
+    "organisation": "Freelance",
+    "startDate": "Aug, 2024",
+    "endDate": "sept, 2024",
+    "experiences": ["Designed and deployed scalable web applications with RESTful APIs and dynamic front-end interfaces using React.js."]
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Sail Innovation Lab",
+    "startDate": "july, 2024",
+    "endDate": "Dec 2024",
+    "experiences": ["Developed front-end and back-end features for high-impact applications" ]
+  },
+  
+  {
+    "role": "Front-end Developer",
+    "organisation": "Freelance",
+    "startDate": "Apr, 2024",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      " Built visually compelling and responsive web applications using React.js, Tailwind CSS, and modern JavaScript practices."
+    ]
+  }
+]
