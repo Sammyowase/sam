@@ -1,4 +1,5 @@
 import React from "react";
+// import hero from "../../../assets/hero";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
