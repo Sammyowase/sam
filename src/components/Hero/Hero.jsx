@@ -1,4 +1,4 @@
-import React from "react";
+import react from "react"
 // import hero from "../../../assets/hero";
 
 import styles from "./Hero.module.css";
@@ -18,8 +18,9 @@ export const Hero = () => {
             Contact Me
           </a>
 
-          <a href="./cv.pdf" className={`${styles.contactBtn}`}>
-          Download Cv
+         <a href="./cv" className={styles.contactBtn}>
+         Download Cv
+         
           </a>
         </div>
        
